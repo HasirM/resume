@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="container">
-        <form action="resume_original/index.html" method="get" id="resumeForm">
+        <form action="resume_original/index.php" method="get" id="resumeForm">
             <div class="content" id="main">
                 <div class="tab active" id="1">
                     <h2>PERSONAL INFO</h2>
