@@ -27,7 +27,7 @@
 
                 <div class="list">
                     <ul id="hobbie-content">
-                    
+                           <!-- the hobbie details will appear here -->
                     </ul>
 
                 </div>
@@ -36,131 +36,52 @@
             <div class="contact">
                 <div class="details">
                     <h4>Phone</h4>
-                    <p>+91 <span id="phone">799 440 2014</span></p>
+                    <p>+91 <span id="phone"></span></p>
                 </div>
 
                 <div class="details">
                     <h4>Email</h4>
-                    <p id="email">hasirahmad124@gmail.com</p>
+                    <p id="email"></p>
                 </div>
 
                 <div class="details">
                     <h4>Website</h4>
-                    <p id="website">hasirenterprises.in</p>
+                    <p id="website"></p>
                 </div>
 
                 <div class="details">
                     <h4>Address</h4>
-                    <p> <span id="address">Mundassery (H), Kozhichena<br>Valakkolam (P.O)</span> - <span id="pincode"> 676508</span></p>
+                    <p> <span id="address"></span> - <span id="pincode"></span></p>
                 </div>
             </div>
         </div>
 
         <div class="right">
             <div class="profileName">
-                <h2> <span id="fname">HASIR</span> <span id="lname">AHMAD</span></h2>
-                <p id="jobtitle">STUDENT</p>
+                <h2> <span id="fname"></span> <span id="lname"></span></h2>
+                <p id="jobtitle"></p>
             </div>
 
             <div class="personalInfo">
                 <div class="aboutMe">
                     <h3>ABOUT ME</h3>
-                    <p id="aboutme">I am a hardworking and ambitious individual with a great passion for coding.  I am currently in my second year of studying B.tech Artificial Intelligence and Data Science at Sri Shanmugha College of Engineering. I aim to become an devoloper in the near future.</p>
+                    <p id="aboutme"></p>
                 </div>
+            </div>
 
-                <div class="projects">
-                    <h3>MINI PROJECTS</h3>
-                    <div id="project-content">
-
-                    </div>
-                    <!-- <div class="project">
-                        <div class="time">
-                            <h5>MARCH 2021 </h5>
-                        </div>
-                        
-                        <div class="work">
-                            <h5>PORFOLIIO</h5>
-                            <h5>Personal Porfolio</h5>
-                            <p>Responsive Personal Portfolio template using HTML5 and CSS3. </p>
-                        </div>
-                    </div>
-
-                    <div class="project">
-                        <div class="time">
-                            <h5>MAY 2021</h5>
-                        </div>
-                        
-                        <div class="work">
-                            <h5>SAMPLE WEBSITE</h5>
-                            <h5>Website</h5>
-                            <p>Sample Responsive Company Website using HTML5 and CSS3. Includes CSS Animations and Effects.</p>
-                        </div>
-                    </div>
-
-                    <div class="project">
-                        <div class="time">
-                            <h5>JUNE 2021</h5>
-                        </div>
-                        
-                        <div class="work">
-                            <h5>CALCULATOR</h5>
-                            <h5>Simple Calculator</h5>
-                            <p>A Simple Calculator using Python Programming Language. Accepts only Two Values and Four Operators</p>
-                        </div>
-                    </div>
-                </div> -->
-
-                <div class="skill">
-
-                    <h3>PROGRAMMING SKILLS</h3>
-                    <div class="skillList">
-                        <div class="skill" id="skill-content">
-                            <!-- <div class="box">
-                                <h5>JAVA</h5>
-                                <div class="percent">
-                                    <div style="width: 25%;"></div>
-                                </div>
-                            </div>
-
-                            <div class="box">
-                                <h5>PYTHON</h5>
-                                <div class="percent">
-                                    <div style="width: 50%;"></div>
-                                </div>
-                            </div>
-
-                            <div class="box">
-                                <h5>HTML</h5>
-                                <div class="percent">
-                                    <div style="width: 70%;"></div>
-                                </div>
-                            </div>
-                        </div> -->
-
-                        <!-- <div class="Rskill">
-                            <div class="box">
-                                <h5>PHP</h5>
-                                <div class="percent">
-                                    <div style="width: 20%;"></div>
-                                </div>
-                            </div>
-
-                            <div class="box">
-                                <h5>CSS</h5>
-                                <div class="percent">
-                                    <div style="width: 65%;"></div>
-                                </div>
-                            </div>
-                            
-                            <div class="box">
-                                <h5>JAVASCRIPT</h5>
-                                <div class="percent">
-                                    <div style="width: 20%;"></div>
-                                </div>
-                            </div>
-                        </div> -->
-                    </div>
+            <div class="projects">
+                <h3>MINI PROJECTS</h3>
+                <div id="project-content">
+                    <!-- the project details will appear here -->
                 </div>
+            </div>
+
+            <div class="skill">
+                <h3>PROGRAMMING SKILLS</h3>
+                <div class="skillList">
+                    <div class="skill" id="skill-content"> 
+                        <!-- the skill details will appear here -->
+                    </div>
             </div>
         </div>
     </div>
