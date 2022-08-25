@@ -102,38 +102,18 @@
                                 <p id="rangeValue">0</p>
                             </div>
                         </div>
-                        <!-- <div class="skill" id="s0">
-                            <input type="text" id="skill_title_0" placeholder="Skill">
-                            <div class="skill-slider">
-                                <input class="slider" id="skill_range_0" type="range" value="0" min="0" max="100" step="5">
-                            </div>
-                        </div> -->
+                   
                     </div>
                     <div class="btn">
                         <button type="button" class="add" id="add-skill"><span>+</span></button>
                     </div>
                 </div>
 
-                <!-- <div class="tab edu" id="3">
-                    <div>
-                        <h2>EDUCATION</h2>
-                        <input type="text" id="major" placeholder="Major" >
-                        <input type="text" id="institution" placeholder="Institution" >
-                        <input type="number" id="jyear" placeholder="Joining Year" >
-                        <input type="number" id="pyear" placeholder="Pass Out Year" >
-                    </div>
-                    <div class="btn btn-edu add-remove">
-                        <button type="button" id="addEdu" onclick="AddEdu()">Add</button>
-                        <button type="button" id="removeEdu" onclick="removeEdu()">Remove</button>
-                    </div>
-                </div> -->
+                
 
             </div>
             <div class="btns">
-                <!-- <div class="btn btn-edu">
-                    <button type="button" id="add" onclick="Add()">Add</button>
-                    <button type="button" id="remove" onclick="Remove()">Remove</button>
-                </div> -->
+                
                 <div class="btn btn-main">
                     <button type="button" id="back" onclick="Back()">Back</button>
                     <button type="button" id="next" onclick="Next()">Next</button>
