@@ -111,7 +111,7 @@ body{
 }
 /*END OF CONTACT*/
 
-       /* ------------- RIGHT SIDE ------------- */
+        /* ------------- RIGHT SIDE ------------- */
 
 .right{
     background: white;
@@ -155,7 +155,7 @@ body{
     font-size: 11px;
 }
 
-.personalInfo h3{
+.personalInfo h3,.projects h3, .skills h3{
     font-weight: 600;
     font-size: 15px;
     padding-bottom: 5px;
@@ -231,7 +231,7 @@ div#skill-content {
 }
 /*END OF SOFTWARE SKILL*/
 
-.profileName, .personalInfo, .projects, .skill{
+.profileName, .personalInfo, .projects, .skills{
     padding-left: 50px;
 }
 
