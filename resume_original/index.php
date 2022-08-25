@@ -76,7 +76,7 @@
                 </div>
             </div>
 
-            <div class="skill">
+            <div class="skills">
                 <h3>PROGRAMMING SKILLS</h3>
                 <div class="skillList">
                     <div class="skill" id="skill-content"> 
