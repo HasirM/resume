@@ -111,7 +111,7 @@ body{
 }
 /*END OF CONTACT*/
 
-        /* ------------- RIGHT SIDE ------------- */
+       /* ------------- RIGHT SIDE ------------- */
 
 .right{
     background: white;
@@ -121,7 +121,7 @@ body{
 
 /*PROFILE NAME*/
 .profileName{
-    padding: 35px 50px;
+    padding: 35px 0;
     background: #FFCC00;
 
 }
@@ -150,7 +150,7 @@ body{
 /*--------------------PERSONAL INFO--------------------*/
 
 .personalInfo {
-    padding: 10px 50px;
+    padding: 10px 0;
     font-weight: 400;
     font-size: 11px;
 }
@@ -171,6 +171,7 @@ body{
 .aboutMe {
     padding-top: 25px;
 }
+/*END OF PROFILE INFO*/
 
 /*WORK EXPERIENCE*/
 .projects {
@@ -230,4 +231,8 @@ div#skill-content {
 }
 /*END OF SOFTWARE SKILL*/
 
-/*--------------------END OF PERSONAL INFO--------------------*/
+.profileName, .personalInfo, .projects, .skill{
+    padding-left: 50px;
+}
+
+/*--------------------END OF RIGHT SIDE--------------------*/
